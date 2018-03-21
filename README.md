@@ -1,2 +1,4 @@
 # Raven-Zombie-Defenders
-Development will continue in May/June
+Read User-Manual for the read-me. 
+
+Game music will be added soon!
